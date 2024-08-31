@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="shortcut icon" href="../icons/favicon.ico" />
+<title>Global Sustainable Development Communication</title>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-155994418-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-155994418-1');
+</script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- Begin JavaScript -->
+
+<!-- End JavaScript -->
+<!-- TemplateEndEditable -->
+<link href="../css/reset.css" rel="stylesheet" type="text/css" />
+<link href="../css/main.css" rel="stylesheet" type="text/css" />
+<link href="../css/mobile.css" rel="stylesheet" type="text/css" />
+</head>
+<body id="main">
+	<div id="header">
+		<div id="header-leftsection">
+			<div id="header-logo" class="float-left">
+			<ul>
+				<li id="logo"></li>
+				<li id="title-container">
+					<p class="header-title">Global Sustainable Development Communication</p>
+				<!--	<p class="header-subtitle">Ello Mate</p> -->
+				</li>
+			</ul>
+			</div>
+		</div>	
+		<div id="header-rightsection">
+			<div id="header-wuda-logo" class="float-right">
+				<img src="../images/partners/logo_wuda.jpg" alt="wuda" />
+			</div>
+			<div id="header-project-description" class="float-right">
+				<ul>
+					<li><p>The GSDC Project promotes global awareness and action on sustainability by enhancing communication and collaboration towards achieving the SDGs.</p></li>
+					<a href="mailto:admin@globalsdc.com" alt="admin@globalsdc.com">
+						<li class="icon-mail"></li>
+					</a>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div id="navbar-container">
+		<div class="navbar">
+		  <a href="#home">Home</a>
+		  <a href="#news">Grassroots Stories</a>
+		  <a href="#bigissues">Grassroots Stories</a>
+		  <a href="#stories-mandarin">Stories Mandarin</a>
+		  <a href="#stories-vietnamese">Stories Vietnamese</a>
+		  <a href="#stories-sinhala">Stories Sinhala</a>
+		  <a href="#stories-lao">Stories Lao</a>
+		  <a href="#podcast">Podcast</a>
+		  <a href="#ejournal">eJournal GSDO</a>
+		  <a href="#ejournal">About Us</a>
+		  <div class="dropdown">
+			<button class="dropbtn">Dropdown 
+			  <i class="fa fa-caret-down"></i>
+			</button>
+			<div class="dropdown-content">
+			  <a href="#">Link 1</a>
+			  <a href="#">Link 2</a>
+			  <a href="#">Link 3</a>
+			</div>
+		  </div> 
+		</div>
+	</div>
+	<div id="content">
+	<!-- TemplateBeginEditable name="content" -->
+
+	<!-- TemplateEndEditable -->
+	</div>
+	<div id="footer">
+		<div id="footer-partner"><p>This project is thanks to all of our wonderful media and university partners:</p>
+			<ul id="partner-icons">
+				<li><img src="../images/partners/logo_wuda.jpg" alt="wuda" /></li>
+				<li><img src="../images/partners/logo_wuda.jpg" alt="wuda" /></li>
+				<li><img src="../images/partners/logo_wuda.jpg" alt="wuda" /></li>
+				<li><img src="../images/partners/logo_wuda.jpg" alt="wuda" /></li>
+			</ul>
+		</div>
+		<div id="footer-info">
+			<p class="credits"><span class="small">&copy;</span> 2024 Global Sustainable Development Communication</p>
+		</div>
+	</div>
+</body>
+</html>
+
+
+
+
